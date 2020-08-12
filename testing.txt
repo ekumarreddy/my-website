@@ -1,0 +1,3 @@
+Under your repository name, click Settings. In the left sidebar, click Collaborators & teams.
+Under "Collaborators", type the name of the person you'd like to give access to the repository, then click Add collaborator. 
+Next to the new collaborator's name, choose the appropriate permission level: Write, Read, or Admin.
